@@ -1,8 +1,8 @@
-# 995ICU [Friend Link 995ICU] (https://995icu.github.io)
+# 995ICU [Link 995ICU](https://995icu.github.io)
 
 - "995" work system, that is, 9 am every day, work until 9 o'clock in the evening. Work 5 days a week.
 
-# 996ICU [Friend Link 996.ICU] (https://996.icu/#/zh_CN)
+# 996ICU [Link 996.ICU](https://996.icu/#/zh_CN)
 
 - "996" work system, that is, 9 am every day, work until 9 o'clock in the evening. Work 6 days a week.
 
